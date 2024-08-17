@@ -1,6 +1,6 @@
 # GSoC 2024 Final Report
 
-Table of Contents
+## Table of Contents
 
   * [Overview](#overview)
   * [Introduction](#introduction)
