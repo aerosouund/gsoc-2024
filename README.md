@@ -3,8 +3,11 @@
 ## Overview
 
 Organization: KubeVirt
+
 Project: Rewrite KubeVirtCI into Go. [Issue](https://github.com/kubevirt/community/issues/257)
+
 Contributor: Ammar Yasser
+
 Mentors: 
 - Luboslav Pivarc. [github](https://github.com/xpivarc)
 - Antonio Cardace. [github](https://github.com/acardace)
