@@ -1,5 +1,20 @@
 # GSoC 2024 Final Report
 
+Table of Contents
+
+  * [Overview](#overview)
+  * [Introduction](#introduction)
+    + [gocli](#gocli)
+    + [cluster-provision](#cluster-provision)
+    + [cluster-up](#cluster-up)
+  * [Problem statement](#problem-statement)
+  * [Achieved goals](#achieved-goals)
+  * [Challenges](#challenges)
+  * [Conclusion](#conclusion)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Overview
 
 Organization: KubeVirt
